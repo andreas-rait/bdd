@@ -11,6 +11,12 @@ As a user
 I want the SimpleTextMunger to munge some words for me
 
 
+-------------------------------------------------------
+
+CucumberOptions:
+
+features = "[yourpath]/simple_text_munger.feature", format = {"pretty", "html:target/cucumber"}
+
 
 ----------------------------------------------------------
 
