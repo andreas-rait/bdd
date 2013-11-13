@@ -17,7 +17,7 @@ CucumberOptions:
 
 features = "[yourpath]/SimpleTextMunger.feature", format = {"pretty", "html:target/cucumber"}
 
-yourpath e.g: src/test/resources/at/fhjoanneum/aim/bdd_lesson
+yourpath e.g: src/test/resources/at/fhjoanneum/aim/features/bdd_lesson
 
 
 ----------------------------------------------------------
