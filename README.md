@@ -15,7 +15,7 @@ I want the SimpleTextMunger to munge some words for me
 
 CucumberOptions:
 
-features = "[yourpath]/simple_text_munger.feature", format = {"pretty", "html:target/cucumber"}
+features = "[yourpath]/SimpleTextMunger.feature", format = {"pretty", "html:target/cucumber"}
 yourpath e.g: src/test/resources/at/fhjoanneum/aim/bdd_lesson
 
 
