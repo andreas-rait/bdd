@@ -43,9 +43,9 @@
             <type>jar</type>
         </dependency>
         <dependency>
-            <groupId>junit</groupId>
-            <artifactId>junit-dep</artifactId>
-            <version>4.8.2</version>
+            <groupId>info.cukes</groupId>
+            <artifactId>cucumber-spring</artifactId>
+            <version>1.1.2</version>
             <scope>test</scope>
             <type>jar</type>
         </dependency>
