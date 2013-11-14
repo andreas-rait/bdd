@@ -5,6 +5,12 @@ bdd fh lesson
 
 ---Simple Text Munger----
 
+example: 
+
+In:   And the spice must flow
+
+Out: And the scipe msut folw
+
 Feature: Simple Text Munger
 In order to munge some words
 As a user 
